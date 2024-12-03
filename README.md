@@ -1,2 +1,2 @@
 # jornada-dev-eficiente
-Repositório criado para poder partilhar minha soluções dos problemas apresentados durante a realização do curso. 
+Repositório criado para poder partilhar minhas soluções criadas para os problemas apresentados durante a realização do curso. 
